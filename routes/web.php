@@ -14,5 +14,5 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', function () {
-    return view('MM Moveis Planejados');
+    return view('MM Móveis Planejados-Estágio II');
 });
